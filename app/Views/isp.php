@@ -8,7 +8,7 @@
 	
 	<title>Website | PT Angin Ribut Sejahtera</title>
 
-	<link rel="shortcut icon" href="<?= base_url() ?>/template/assets/images/s4.jpg">
+	<link rel="shortcut icon" href="<?= base_url() ?>/template/assets/images/gt_favicon.png">
 	
 	<!-- Bootstrap -->
 	<link href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.no-icons.min.css" rel="stylesheet">
@@ -26,10 +26,9 @@
 <header id="header">
 	<div id="head" class="parallax" parallax-speed="1">
 		<h1 id="logo" class="text-center">
-			<img class="img-circle" src="<?= base_url() ?>/template/assets/images/s4.jpg" alt="">	
 			<span class="title">PT ANGIN RIBUT SEJAHTERA</span>
 			<span class="tagline">UNIVERSITAS PEMBANGUNAN JAYA<br>
-			<a href="">ngopi@example.com</a></span>
+				<a href="">ngopi@example.com</a></span>
 		</h1>
 	</div>
 
@@ -59,30 +58,24 @@
 
 		<div class="row topspace">
 			
-			<!-- Sidebar -->
-			<aside class="col-sm-4 sidebar sidebar-right">
-
-				<ul class="nav text-right nav-side">
-					<li><a>OUR TEAM</a></li>
-			
-				</ul>
-
-			</aside>
-			<!-- /Sidebar -->
-
 			<!-- Article main content -->
 			<article class="col-sm-8 maincontent">
-				<p>Muhamad Imam Firmansyah / 2019071094</p>
+				<header class="page-header">
+					<h1 class="page-title">Internet Service Provider</h1>
+				</header>
+
+				<p><img src="<?= base_url() ?>/template/assets/images/s8.jpeg" alt=""></p>
+
+				<p>ISP singkatan dari Internet Service Provider atau dalam bahasa Indonesia singkatannya adalah PIJI. Secara umum, ISP adalah produsen atau lembaga yang memberikan pelayanan kepada konsumen supaya bisa mengakses internet dan berbagai media online. Menurut Encyclopaedia Britannica, ISP adalah perusahaan yang menyediakan koneksi dan layanan internet untuk individu dan organisasi. Setiap ISP menyediakan layanan yang berbeda-beda kepada pelanggannya. Tidak hanya menyediakan koneksi internet tetapi juga meliputi pemeliharaan dan instalasi. Penyedia Jasa Internet (PJI) atau (Internet service provider disingkat ISP) adalah perusahaan atau badan yang menyediakan jasa sambungan Internet dan jasa lainnya yang berhubungan. Kebanyakan perusahaan telepon merupakan penyedia jasa Internet. Mereka menyediakan jasa seperti hubungan ke internet, pendaftaran nama domain, dan hosting.
+Internet Service Provider atau lebih dikenal dengan penyelenggara jasa internet adalah perusahaan yang menyelenggarakan jasa sambungan internet dan jasa lainnya yang berhubungan. ISP ini mempunyai jaringan baik secara domestik maupun internasional sehingga pelanggan atau pengguna dari sambungan yang disediakan oleh ISP dapat terhubung ke jaringan internet global. Setiap kali kita terhubung ke internet, koneksi kita dirutekan melalui ISP. Biasanya, ISP disebut sebagai provider (penyedia). Melansir Techopedia, ISP biasanya adalah perusahaan kabel atau perusahaan telepon seluler yang menawarkan langganan internet, selain TV atau layanan komunikasi seluler. ISP juga dikenal sebagai Internet Access Provider atau IAP (Penyedia Akses Internet).
+</p>
+				<h3>Hire US</h3>
+				<p>Kami mempunyai engineer terbaik di bidangnya</p>
 				
-				<p>Roghib Ashafani / 2011019193</p>
 				
-				<p>Ade AdityaYahdjan / 2019071060.</p>
-				
-				<p>Mohamad Yafaz Habib / 2019071062.</p>
 			</article>
 			<!-- /Article -->
 			
-
 		</div>
 	</div>	<!-- /container -->
 	
@@ -112,9 +105,9 @@
 	<div class="container">
 		<div class="row">
 		    
-		     <div class="col-md-6 widget">
+		    	<div class="col-md-6 widget">
 				<div class="widget-body">
-					<p>UNIVERSITAS PEMBANGUNAN JAYA</p>
+					<p>UNIVERSITAS PEMBANGUNAN JAYA </p>
 				</div>
 			</div>
 

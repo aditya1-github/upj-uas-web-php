@@ -45,7 +45,7 @@
 				<ul class="nav navbar-nav">
 					<li class="active"><a href="<?= base_url() ?>/Homepage">Home</a></li>
 					<li><a href="<?= base_url() ?>/Aboutus">About</a></li>
-					<li><a href="<?= base_url() ?>/Blog">Blog</a></li>
+					<li><a href="<?= base_url() ?>/Blog">Contact Us</a></li>
 				</ul>
 			
 			</div><!--/.nav-collapse -->			
@@ -61,72 +61,46 @@
 			<div class="col-md-12">
 				<p class="lead text-center text-muted">Perusahaan dalam negeri yang sudah mendunia dengan jasa yang memuaskan, jangan ragu dengan service kami.</a>. </p>
 			</div>
-		</div> <!-- / section -->
 		
-		<div class="row section featured topspace">
-			<h2 class="section-title"><span>Service</span></h2>
-			<div class="row">
-				<div class="col-sm-6 col-md-3">
-					<h3 class="text-center">Cuci Toren AIR</h3>
-					<p>Cuci Toren air sampai bersih sampai kinclong</p>
-					<p class="text-center"><a href="" class="btn btn-action">Read more</a></p>
-				</div>
-				<div class="col-sm-6 col-md-3">
-					<h3 class="text-center">Service AC</h3>
-					<p>Service AC menjadi panas, karena dingin hal yang biasa</p>
-					<p class="text-center"><a href="" class="btn btn-action">Read more</a></p>
-				</div>
-				<div class="col-sm-6 col-md-3">
-					<h3 class="text-center">Sedot WC</h3>
-					<p>Sedot WC sampai ke akar akarnya</p>
-					<p class="text-center"><a href="" class="btn btn-action">Read more</a></p>
-				</div>
-				<div class="col-sm-6 col-md-3">
-					<h3 class="text-center">Sikat Knalpot</h3>
-					<p>Menerima jasa sikat knalpot yang kotor karena kerak banjir</p>
-					<p class="text-center"><a href="" class="btn btn-action">Read more</a></p>
-				</div>
-			</div>
-		</div> <!-- / section -->
 	
 		<div class="row section recentworks topspace">
 			
-			<h2 class="section-title"><span>Recent Works</span></h2>
+			<h2 class="section-title"><span>SKILLS</span></h2>
 			
 			<div class="thumbnails recentworks row">
 				
 				<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-					<a class="thumbnail" href="<?= base_url() ?>/Torenair">
+					<a class="thumbnail" href="<?= base_url() ?>/MikrotikProject">
 						<span class="img">
-							<img src="<?= base_url() ?>/template/assets/images/s1.jpg" alt="">
+							<img src="<?= base_url() ?>/template/assets/images/s6.jpeg" alt="">
 							<span class="cover"><span class="more">See details &rarr;</span></span>
 						</span>
-						<span class="title">Rumah Pak RT - Cuci Toren AIR</span>
+						<span class="title">Mikrotik</span>
 					</a>
 					
 				</div>
 				
 				<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-					<a class="thumbnail" href="<?= base_url() ?>/SedotWC">
+					<a class="thumbnail" href="<?= base_url() ?>/MikrokontrolerProject">
 						<span class="img">
-							<img src="<?= base_url() ?>/template/assets/images/s2.jpg" alt="">
+							<img src="<?= base_url() ?>/template/assets/images/s7.jpeg" alt="">
 							<span class="cover"><span class="more">See details &rarr;</span></span>
 						</span>
-						<span class="title">Rumah Pak Roghib - Sedot WC</span>
+						<span class="title">Mikrokontroler</span>
 					</a>
 					
 				</div>
 				
 				<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-					<a class="thumbnail" href="<?= base_url() ?>/Knalpot">
+					<a class="thumbnail" href="<?= base_url() ?>/ISP">
 						<span class="img">
-							<img src="<?= base_url() ?>/template/assets/images/s3.jpg" alt="">
+							<img src="<?= base_url() ?>/template/assets/images/s8.jpeg" alt="">
 							<span class="cover"><span class="more">See details &rarr;</span></span>
 						</span>
-						<span class="title">Pak Lurah - Cuci Knalpot Motor Supra</span>
+						<span class="title">ISP</span>
 					</a>
 					
-				</div>
+			
 
 				
 
@@ -161,17 +135,7 @@
 				</div>
 			</div>
 
-			<div class="col-md-3 widget">
-				<h3 class="widget-title">Follow me</h3>
-				<div class="widget-body">
-					<p class="follow-me-icons">
-						<a href=""><i class="fa fa-twitter fa-2"></i></a>
-						<a href=""><i class="fa fa-dribbble fa-2"></i></a>
-						<a href=""><i class="fa fa-github fa-2"></i></a>
-						<a href=""><i class="fa fa-facebook fa-2"></i></a>
-					</p>
-				</div>
-			</div>
+			
 
 			
 
@@ -187,7 +151,7 @@
 			
 			<div class="col-md-6 widget">
 				<div class="widget-body">
-					<p>Jalan Cinta, RT 5 RW 3, 10 Nomor Rumahku </p>
+					<p>UNIVERSITAS PEMBANGUNAN JAYA</p>
 				</div>
 			</div>
 
@@ -206,8 +170,8 @@
 
 
 <!-- JavaScript libs are placed at the end of the document so the pages load faster -->
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
 <script src="<?= base_url() ?>/template/assets/js/template.js"></script>
 </body>
 </html>

@@ -8,7 +8,7 @@
 	
 	<title>Website | PT Angin Ribut Sejahtera</title>
 
-	<link rel="shortcut icon" href="<?= base_url() ?>/template/assets/images/s4.jpg">
+	<link rel="shortcut icon" href="<?= base_url() ?>/template/assets/images/gt_favicon.png">
 	
 	<!-- Bootstrap -->
 	<link href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.no-icons.min.css" rel="stylesheet">
@@ -26,10 +26,9 @@
 <header id="header">
 	<div id="head" class="parallax" parallax-speed="1">
 		<h1 id="logo" class="text-center">
-			<img class="img-circle" src="<?= base_url() ?>/template/assets/images/s4.jpg" alt="">	
 			<span class="title">PT ANGIN RIBUT SEJAHTERA</span>
 			<span class="tagline">UNIVERSITAS PEMBANGUNAN JAYA<br>
-			<a href="">ngopi@example.com</a></span>
+				<a href="">ngopi@example.com</a></span>
 		</h1>
 	</div>
 
@@ -59,30 +58,25 @@
 
 		<div class="row topspace">
 			
-			<!-- Sidebar -->
-			<aside class="col-sm-4 sidebar sidebar-right">
-
-				<ul class="nav text-right nav-side">
-					<li><a>OUR TEAM</a></li>
-			
-				</ul>
-
-			</aside>
-			<!-- /Sidebar -->
-
 			<!-- Article main content -->
 			<article class="col-sm-8 maincontent">
-				<p>Muhamad Imam Firmansyah / 2019071094</p>
+				<header class="page-header">
+					<h1 class="page-title">Mikrokontroler</h1>
+				</header>
+
+				<p><img src="<?= base_url() ?>/template/assets/images/s7.jpeg" alt=""></p>
+
+				<p>Di bidang komputer dan elektronika, ada chip yang disebut mikrokontroler. Banyak orang salah mengartikan bahwa chip ini sama dengan microprocessor yaitu CPU di komputer. Secara umum, mikrokontroler adalah suatu chip yang berisi semua komponen dan fungsi CPU. Untuk lebih mudah, chip ini disebut mini komputer karena memiliki semua fitur dan komponen  seperti RAM, port, dan lainnya. Akan tetapi, mikrokontroler memiliki keterbatasan proses dan kerja. Meskipun lebih praktis, penerapannya hanya untuk kerja khusus bukan general seperti komputer atau laptop normal.
+Mikrokrontroler (Microcontroller) adalah perangkat komputer mini (mikro) yang dikemas dalam satu chip tunggal IC (Integrated Circuit) dan mempunyai program operasi tertentu didalamnya. Komponen pada mikrokontroler ini hampir mirip dengan sebuah perangkat komputer (PC) biasa. Selain memiliki Central Processing Unit (CPU), mikrokontroller juga dilengkapi dengan komponen RAM, ROM, serta perangkat input dan output (Port IO) yang bisa anda program sesuai kebutuhan. Penggunaan mikrokontroller ini umumnya diaplikasi pada perangkat yang membutuhkan pengendali otomatis seperti pengontrol mesin mobil, perangkat perangkat medis di rumah sakit, dan juga peralatan elektronika lainnya.
+</p>
+				<h3>Hire US</h3>
+				<p>Kami menerima pembuatan dan perancangan alat sesuai dengan spesifikasi pemesan untuk keperluan Pribadi, perusahaan untuk Prototype Development atau Produk Development. Untuk Hardware dan Software Bisa Berbasis Mikrokontroler</p>
 				
-				<p>Roghib Ashafani / 2011019193</p>
 				
-				<p>Ade AdityaYahdjan / 2019071060.</p>
-				
-				<p>Mohamad Yafaz Habib / 2019071062.</p>
 			</article>
 			<!-- /Article -->
-			
 
+			
 		</div>
 	</div>	<!-- /container -->
 	
@@ -112,12 +106,12 @@
 	<div class="container">
 		<div class="row">
 		    
-		     <div class="col-md-6 widget">
+		    <div class="col-md-6 widget">
 				<div class="widget-body">
 					<p>UNIVERSITAS PEMBANGUNAN JAYA</p>
 				</div>
 			</div>
-
+			
 			<div class="col-md-6 widget">
 				<div class="widget-body">
 					<p class="text-right">

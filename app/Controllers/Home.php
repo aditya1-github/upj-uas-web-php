@@ -19,23 +19,20 @@ class Home extends BaseController
         return view('blog');
     }
 
-    public function sedotwc()
+    public function mikrokontroler()
     {
-        return view('sedotwc');
+        return view('mikrokontroler');
     }
 
-    public function torenair()
+    public function mikrotik()
     {
-        return view('torenair');
+        return view('mikrotik');
     }
 
-    public function knalpot()
+    public function isp()
     {
-        return view('knalpot');
+        return view('isp');
     }
 
-    public function artikel()
-    {
-        return view('artikel');
-    }
+    
 }

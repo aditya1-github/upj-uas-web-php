@@ -8,7 +8,7 @@
 	
 	<title>Website | PT Angin Ribut Sejahtera</title>
 
-	<link rel="shortcut icon" href="<?= base_url() ?>/template/assets/images/s4.jpg">
+	<link rel="shortcut icon" href="<?= base_url() ?>/template/assets/images/gt_favicon.png">
 	
 	<!-- Bootstrap -->
 	<link href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.no-icons.min.css" rel="stylesheet">
@@ -26,10 +26,9 @@
 <header id="header">
 	<div id="head" class="parallax" parallax-speed="1">
 		<h1 id="logo" class="text-center">
-			<img class="img-circle" src="<?= base_url() ?>/template/assets/images/s4.jpg" alt="">	
 			<span class="title">PT ANGIN RIBUT SEJAHTERA</span>
 			<span class="tagline">UNIVERSITAS PEMBANGUNAN JAYA<br>
-			<a href="">ngopi@example.com</a></span>
+				<a href="">ngopi@example.com</a></span>
 		</h1>
 	</div>
 
@@ -59,30 +58,27 @@
 
 		<div class="row topspace">
 			
-			<!-- Sidebar -->
-			<aside class="col-sm-4 sidebar sidebar-right">
-
-				<ul class="nav text-right nav-side">
-					<li><a>OUR TEAM</a></li>
-			
-				</ul>
-
-			</aside>
-			<!-- /Sidebar -->
-
 			<!-- Article main content -->
 			<article class="col-sm-8 maincontent">
-				<p>Muhamad Imam Firmansyah / 2019071094</p>
+				<header class="page-header">
+					<h1 class="page-title">Mikrotik</h1>
+				</header>
+
+				<p><img src="<?= base_url() ?>/template/assets/images/s6.jpeg" alt=""></p>
+
+				<p>Mikrotik adalah sistem operasi yang berbasis perangkat lunak (software) yang dipergunakan untuk menjadikan komputer sebagai router sebuah jaringan. Mikrotik juga menggunakan sistem operasi berbasis Linux dan menjadi dasar network router. Sistem operasi (OS) ini sangat cocok untuk membangun administrasi jaringan komputer yang berskala kecil hingga besar. 
+
+Namun, hingga saat ini masih banyak orang yang salah memahami pengertian dari mikrotik dan router. Jika mikrotik adalah sebuah sistem operasi yang termasuk dalam golongan open source, maka router merupakan perangkat keras yang berfungsi sebagai penghubung antara dua jaringan atau lebih. Jadi, perbedaan yang paling mendasar adalah mikrotik sebagai software dan router berperan menjadi hardware.
+</p>
+				<h3>Hire US</h3>
+				<p>Anda akan mendapatkan support terbaik dari kami. Jasa setting mikrotik kami sediakan untuk segala golongan baik perusahaan swasta, pemerintah, instansi BUMN maupun untuk anda perorangan diseluruh indonesia terutama di Jakarta. Kami tidak hanya mengerjakan pekerjaan saja, tapi kami usahakan untuk selalu menyempatkan waktu untuk sharing knowledge kepada pelanggan kami atas apa yang telah dikerjakan agar wawasan pelanggan juga semakin bertambah.
+Kami juga menyediakan layanan konsultasi selama satu bulan setelah selesai memberikan layanan jasa setting mikrotik, sehingga ketika terjadi apa-apa dengan jaringan anda, kami siap membantu kembali.
+</p>
 				
-				<p>Roghib Ashafani / 2011019193</p>
 				
-				<p>Ade AdityaYahdjan / 2019071060.</p>
-				
-				<p>Mohamad Yafaz Habib / 2019071062.</p>
 			</article>
 			<!-- /Article -->
 			
-
 		</div>
 	</div>	<!-- /container -->
 	
@@ -112,7 +108,7 @@
 	<div class="container">
 		<div class="row">
 		    
-		     <div class="col-md-6 widget">
+		    <div class="col-md-6 widget">
 				<div class="widget-body">
 					<p>UNIVERSITAS PEMBANGUNAN JAYA</p>
 				</div>

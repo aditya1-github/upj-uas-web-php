@@ -34,10 +34,9 @@ $routes->setAutoRoute(true);
 $routes->get('/Homepage', 'Home::index');
 $routes->get('/Aboutus', 'Home::about');
 $routes->get('/Blog', 'Home::blog');
-$routes->get('/SedotWC', 'Home::sedotwc');
-$routes->get('/Torenair', 'Home::torenair');
-$routes->get('/Knalpot', 'Home::knalpot');
-$routes->get('/Blog/Artikel', 'Home::artikel');
+$routes->get('/MikrokontrolerProject', 'Home::mikrokontroler');
+$routes->get('/MikrotikProject', 'Home::mikrotik');
+$routes->get('/ISP', 'Home::isp');
 
 /*
  * --------------------------------------------------------------------
