@@ -1,5 +1,15 @@
 # CodeIgniter 4 Application Starter
 
+## Link Design Website
+
+https://www.figma.com/file/44DCDPCEhMLvQwqUQ1xNsF/UPJ-UAS-WEB-PHP?node-id=0%3A1
+
+
+## Link Video
+
+https://youtu.be/o-6yIn5GDvA
+
+
 ## What is CodeIgniter?
 
 CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure.
@@ -62,6 +72,3 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - [mysqlnd](http://php.net/manual/en/mysqlnd.install.php)
 - xml (enabled by default - don't turn it off)
 
-## Link Design Website
-
-https://www.figma.com/file/44DCDPCEhMLvQwqUQ1xNsF/UPJ-UAS-WEB-PHP?node-id=0%3A1
